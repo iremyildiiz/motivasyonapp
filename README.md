@@ -33,3 +33,7 @@ Teknoloji:
 
 Sonuç:
 Pozitif Bakış uygulaması, kullanıcıların günlük duygusal durumlarını belirlemelerine ve pozitif bir bakış açısı kazanmalarına yardımcı olan basit ve kullanıcı dostu bir mobil uygulamadır. Uygulama, günlük olarak duygusal durumlarını takip etmek isteyenler için ideal bir çözümdür.
+
+![Screenshot_1717957878](https://github.com/iremyildiiz/motivasyonapp/assets/171427424/5634f652-7670-4440-b13f-1b1658f8bcbf)
+
+
